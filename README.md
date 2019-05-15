@@ -5,6 +5,7 @@
     * lat-lon of map extent
 
 * Output
-![GitHub Logo](/docs/sample.png)
-Format: ![Alt Text](url)
+![alt text](/docs/sample.png "Signal Catchment Area Map")
+
+
 
